@@ -1,0 +1,30 @@
+
+
+
+
+.art{
+    flex-direction: column;
+   
+justify-content: space-between;
+flex-grow: <2>;
+
+}
+
+.header{
+    width: 800px;
+    max-width: 50%;
+
+
+}
+
+.pics{
+
+width: 100%;
+height: auto;
+
+
+}
+.container{
+    width: 800px;
+    max-width: 50%;
+}
