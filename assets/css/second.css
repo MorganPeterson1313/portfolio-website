@@ -1,13 +1,19 @@
 
-
-
+.icons{
+    margin-left: 35%;
+}
+.copyright{
+    margin-left: 25%;
+}
 
 .art{
-    flex-direction: column;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
    
 justify-content: space-between;
-flex-grow: <2>;
-
+justify-content: space-evenly;
+margin-left: 18%;
 }
 
 .header{
@@ -19,12 +25,13 @@ flex-grow: <2>;
 
 .pics{
 
-width: 100%;
+width: 30%;
 height: auto;
+margin: 3%;
 
 
 }
 .container{
     width: 800px;
-    max-width: 50%;
+    max-width: 70%;
 }
